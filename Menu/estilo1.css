@@ -1,0 +1,34 @@
+body { 
+     background-image:url("../Imagenes/gota.jpg");
+      background-size:contain;
+
+
+.index ul li {
+    list-style:none;
+   float:left;
+}
+
+.index ul li a{
+   text-decoration: none;
+   padding: 5px 10px;
+   border: 0px solid #ccc;
+   color:#black;
+}
+
+
+.index ul a:hover {
+  background:purple;
+  color: #white;
+  border: 10px solid black;
+  transition: background 1s, color 1s;
+  }
+
+
+.logo{
+ width: 1050px;
+ height: 1050px;
+ border-radius: 55px;
+  margin-top: 30px;
+  margin-LEFT: 200px;
+ center
+}
